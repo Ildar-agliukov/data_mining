@@ -5,7 +5,6 @@ Project was created during data scraping course. The main task of the projects i
 distances between actors. BFS was used to find the distances and than we have to
 draw the graphs of distances between 2019 high paid actors and also create the wordcloud pictures of description from films where they have played.
 In that project was used next Python libraries: 
-* Selenium
 * Beautifulsoup
 * Aiohttp
 * Asyncio
